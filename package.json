@@ -3,7 +3,7 @@
   "devDependencies": {
     "browser-sync": "*",
     "del": "*",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.1",
     "gulp-autoprefixer": "*",
     "gulp-changed": "*",
     "gulp-cssnano": "*",
